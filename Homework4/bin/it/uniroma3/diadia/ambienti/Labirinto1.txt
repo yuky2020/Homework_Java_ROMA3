@@ -1,0 +1,8 @@
+Stanze: biblioteca, N10, N11 ,atrio ,N13 ,N14 ,N15 ,
+StanzeBloccate: N12 chiave est
+StanzeBuie: N9 lanterna        
+Inizio: N10
+Vincente: biblioteca
+Attrezzi: 1 martello 10 N10, 0 pinza 2 N10, 0 chiave 1 N10, 0 biscotto 1 N10, 0 lanterna 5 N12, 1 bacchetta 3 N10
+Uscite: biblioteca nord N10, biblioteca sud N11, N10 nord N13, N13 nord N14, N10 ovest N15, N10 sud biblioteca, N10 est N12, N12 est biblioteca, N12 sud N9
+Personaggi: cane N13 bau biscotto woof sono il piu grande e fantasticoooo, mago N14 forest bacchetta yay , strega N15 varana tuaZia 
